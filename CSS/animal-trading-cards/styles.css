@@ -1,0 +1,39 @@
+h3 {
+  font-family: 'Vollkorn SC', serif;
+  font-weight: 900;
+}
+
+.list {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+p:first-of-type {
+  font-style: italic;
+}
+
+#information {
+  border: 1px solid #c3ccdb;
+  box-shadow: none;
+	width: 265px;
+	text-align: justify;
+	background-color: #f0f8ff;
+}
+
+div:first-of-type {
+  border: 1px solid #c3ccdb;
+	border-radius: 8px;
+  padding: 1em;
+  box-shadow: 10px 10px 10px #c3ccdb;
+	width: 300px;
+	background-color: #f0f0ff;
+}
+
+img {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  }
