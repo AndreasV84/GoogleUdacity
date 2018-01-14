@@ -31,6 +31,7 @@ div:first-of-type {
   box-shadow: 10px 10px 10px #c3ccdb;
 	width: 300px;
 	background-color: #f0f0ff;
+  margin: auto;
 }
 
 img {
